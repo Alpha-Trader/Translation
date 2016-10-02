@@ -1,0 +1,408 @@
+
+# (#) can be liquidated in # days. Please cast your vote.;# (#) can be liquidated in # days. Please cast your vote.
+# (#) can be liquidated in # days;# (#) can be liquidated in # days
+# (#) can employ # for a daily wage of #. Please cast your vote.;# (#) can employ # for a daily wage of #. Please cast your vote.
+# (#) can employ # with a daily wage of #. Please cast your vote.;# (#) can employ # with a daily wage of #. Please cast your vote.
+# (#) can employ you for a daily wage of #.;# (#) can employ you for a daily wage of #.
+# (#) will sell all positions in # days. Please cast your vote.;# (#) will sell all positions in # days. Please cast your vote.
+# (#) will sell all positions in # days;# (#) will sell all positions in # days
+# initiated a Cash Out Poll for # (#);# initiated a Cash Out Poll for # (#)
+#: Your order was filled: # # # shares of # (#) at #.;#: Your order was filled: # # # shares of # (#) at #.
+Already a bank;Already a bank
+At least # cash needed, only # is available;At least # cash needed, only # is available
+Banking license does not exist;Banking license does not exist
+Bond does not exist;Bond does not exist
+Bond repayment;Bond repayment
+Bonds issued, don't forget to create a sell order! Order accepted.;Bonds issued, don't forget to create a sell order! Order accepted.
+Bonds issued, don't forget to create a sell order!;Bonds issued, don't forget to create a sell order!
+Buy # shares of # (#);Buy # shares of # (#)
+CEO employed;CEO employed
+Cannot cash out: #;Cannot cash out: #
+Cannot employ CEO: #;Cannot employ CEO: #
+Cannot liquidate: #;Cannot liquidate: #
+Cash amount needs to be greater than #;Cash amount needs to be greater than #
+Cash deposit of at least # is needed;Cash deposit of at least # is needed
+Chat deleted;Chat deleted
+Chat does not exist;Chat does not exist
+Chat is read-only;Chat is read-only
+Company cannot be liquidated, as long as it does not consist of cash and/or own shares only;Company cannot be liquidated, as long as it does not consist of cash and/or own shares only
+Company does not exist;Company does not exist
+Company does not have enough (uncommitted) cash to pay its CEO, only # available;Company does not have enough (uncommitted) cash to pay its CEO, only # available
+Company has been trading within the last # days;Company has been trading within the last # days
+Company has no logo;Company has no logo
+Company has to be at least # days old;Company has to be at least # days old
+Company id is unknown;Company id is unknown
+Company liquidated;Company liquidated
+Company name is invalid, try # instead;Company name is invalid, try # instead
+Company with name already exists;Company with name already exists
+Complaint does not exist;Complaint does not exist
+Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the security identifier #.;Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the ASIN #.
+Content cannot be empty;Content cannot be empty
+Current cash out poll is not yet expired;Current cash out poll is not yet expired
+Current liquidation poll is not yet expired;Current liquidation poll is not yet expired
+Delete Chat;Delete Chat
+Email address already exists;Email address already exists
+Employ CEO poll initiated;Employ CEO poll initiated
+Evaluation has now started. Thanks for your help!;Evaluation has now started. Thanks for your help!
+Exceeds company net cash (#);Exceeds company net cash (#)
+Exceeds the maximum of central bank loans, only # can still be granted;Exceeds the maximum of central bank loans, only # can still be granted
+Execute;Execute
+Face value has to be at least #;Face value has to be at least #
+First payment is not yet possible;First payment is not yet possible
+Founding a new company called #;Founding a new company called #
+Hot Securities;Hot Securities
+Interest rate cannot be greater than #%;Interest rate cannot be greater than #%
+Interest rate needs to be greater than #%;Interest rate needs to be greater than #%
+Invalid logo;Invalid logo
+Limit order needs price;Limit order needs price
+Liquidation of # (#);Liquidation of # (#)
+Listing does not exist;Listing does not exist
+Listing is already expired;Listing is already expired
+Logo URL is blocked because of complaints;Logo URL is blocked because of complaints
+Logo URL is not valid;Logo URL is not valid
+Logo height exceeds # pixels;Logo height exceeds # pixels
+Logo size exceeds # bytes;Logo size exceeds # bytes
+Logo width exceeds # pixels;Logo width exceeds # pixels
+Market order must not have price;Market order must not have price
+Market reset succesful;Market reset succesful
+Market sells are placed;Market sells are placed
+Maturity date cannot be more than # days in the future;Maturity date cannot be more than # days in the future
+Maturity date has to be at least #h in the future;Maturity date has to be at least #h in the future
+Message deleted;Message deleted
+Message does not exist;Message does not exist
+Missing Company;Missing Company
+More central bank reserve needed for this volume, only # can still be granted;More central bank reserve needed for this volume, only # can still be granted
+Name is empty;Name is empty
+Newest Securities;Newest Securities
+Next payment is not yet possible;Next payment is not yet possible
+Nice try;Nice try
+Not a valid email address;Not a valid email address
+Not allowed to see this message;Not allowed to see this message
+Not enough private cash, only # is available;Not enough private cash, only # is available
+Not enough shares in sell orders in order book to fill buy market order, only # are in sells;Not enough shares in sell orders in order book to fill buy market order, only # are in sells
+Not enough shares, only # are held;Not enough shares, only # are held
+Not enough uncommitted cash in bank account, only # is available;Not enough uncommitted cash in bank account, only # is available
+Not the sender of this message;Not the sender of this message
+Not yet possible;Not yet possible
+Notifications marked as read;Notifications marked as read
+Notifications;Notifications
+Number of shares must be at least #;Number of shares must be at least #
+Only #% voted in favor for cashing out the company, #% are needed;Only #% voted in favor for cashing out the company, #% are needed
+Only #% voted in favor for employing you, #% are needed;Only #% voted in favor for employing you, #% are needed
+Only #% voted in favor for the liquidation, #% are needed;Only #% voted in favor for the liquidation, #% are needed
+Only a scale of # allowed for stock orders, try # instead;Only a scale of # allowed for stock orders, try # instead
+Only a scale of # allowed, try # instead;Only a scale of # allowed, try # instead
+Only banks can issue system bonds;Only banks can issue system bonds
+Only banks can trade repurchase agreements;Only banks can trade repurchase agreements
+Only banks have central bank reserves;Only banks have central bank reserves
+Order filled;Order filled
+Order id does not exist;Order id does not exist
+Owner does not exist;Owner does not exist
+Password is empty;Password is empty
+Payment does not exist;Payment does not exist
+Poll deleted;Poll deleted
+Poll did not pass;Poll did not pass
+Poll does not exist;Poll does not exist
+Poll result is already expired;Poll result is already expired
+Poll;poll
+Price is above maximum price (#);Price is above maximum price (#)
+Price is below minimum price (#);Price is below minimum price (#)
+Price is negative;Price is negative
+Repurchase of # (#): # bonds;Repurchase of # (#): # bonds
+Salary from # (#);Salary from # (#)
+Salary paid;Salary paid
+Search users...;Search users...
+Securities account does not exist;Portfolio does not exist
+Securities account id is unknown;Portfolio ID is unknown
+Security identifier is unknown;ASIN is unknown
+Security identifier unknown;ASIN unknown
+Security order deleted;Security order deleted
+Security orders deleted;Security orders deleted
+Sell # shares of # (#);Sell # shares of # (#)
+Shareholder Information - # initiated an Employ CEO Poll for # (#);Shareholder Information - # initiated an Employ CEO Poll for # (#)
+Shareholder Information - # initiated an Liquidation Poll for # (#);Shareholder Information - # initiated an Liquidation Poll for # (#)
+Shareholder Information - # is the new CEO of # (#);Shareholder Information - # is the new CEO of # (#)
+Someone opened a complaint;Someone opened a complaint
+Subject matter does not exist;Subject matter does not exist
+System Restart;System Restart
+System bond does not exist;System bond does not exist
+System bond issued; System bond issued
+The company needs # net cash to become a bank. The company's net cash is only #;The company needs # net cash to become a bank. The company's net cash is only #
+The evaluation of your complaint led to an execution.;The evaluation of your complaint led to an execution.
+The shareholders decided to employ # as CEO of # (#) with a daily Wage of #. The former CEO was #.;The shareholders decided to employ # as CEO of # (#) with a daily wage of #. The former CEO was #.
+The shareholders decided to employ # as CEO of # (#) with a daily wage of #. The former CEO was #.;The shareholders decided to employ # as CEO of # (#) with a daily wage of #. The former CEO was #.
+The shareholders decided to employ # as CEO of # (#) with a daily wage of #. Your employment ends now.;The shareholders decided to employ # as CEO of # (#) with a daily wage of #. Your employment ends now.
+The wage cannot exceed #% of the company's net cash, try #;The wage cannot exceed #% of the company's net cash, try #
+There is no company for that listing;There is no company for that listing
+There was a complaint about the # of #. The complainer added a note for you: #;There was a complaint about the # of #. The complainer added a note for you: #
+There was a complaint about the # of #.;There was a complaint about the # of #.
+There was a system restart. Watch out for new features.;There was a system restart. Watch out for new features.
+Too many committed shares, only # available;Too many committed shares, only # available
+Too much committed cash, only # available;Too much committed cash, only # available
+User does not control a securities account that owns the order;User does not control a portfolio that owns the order
+User does not control or partially own company;User does not control or partially own company
+User does not control the company;User does not control the company
+User does not exist;User does not exist
+User id does not exist;User id does not exist
+User is not a participant of this chat;User is not a participant of this chat
+Username already exists;Username already exists
+Username does not exist;Username does not exist
+Username is invalid, try # instead;Username is invalid, try # instead
+Volume (incl. interest);Volume (incl. interest)
+Voting period is already over;Voting period is already over
+Wage cannot be negative;Wage cannot be negative
+Wrong password;Wrong password
+You already have a open complaint for this subject matter;You already have a open complaint for this subject matter
+You are dismissed as CEO of # (#);You are dismissed as CEO of # (#)
+You are not participating in this chat;You are not participating in this chat
+You are the new CEO of # (#);You are the new CEO of # (#)
+You currently already have # open complaints;You currently already have # open complaints
+You did not initiate this poll;You did not initiate this poll
+You do not control the company;You do not control the company
+You do not own the chat;You do not own the chat
+You have founded a new Company called # (#);You have founded a new Company called # (#)
+You initiated a Cash Out Poll for # (#);You initiated a Cash Out Poll for # (#)
+You initiated a Liquidation Poll for # (#);You initiated a Liquidation Poll for # (#)
+You initiated an Employ CEO Poll for # (#);You initiated an Employ CEO Poll for # (#)
+You need to issue at least # bond;You need to issue at least # bond
+You only have # voices left;You only have # voices left
+You opened a complaint;You opened a complaint
+You openened # complaints in the past # days;You openened # complaints in the past # days
+You received # cash during the repayment of # (#);You received # cash during the repayment of # (#)
+Your complaint entered the review process;Your complaint entered the review process
+Your complaint was executed;Your complaint was executed
+Your complaint will be reviewed as soon as possible.;Your complaint will be reviewed as soon as possible.
+aboutus;About us
+abstentionRule;Abstention Rule
+accountstatement;Account Statement
+action;Action
+addtochat;Add to chat
+amount;Amount
+amountcashdeposit;Amount of cash to deposit
+applyasceo;Apply as CEO
+approvalvotespercentage;Approval Votes Percentage
+ask;Ask
+askprice;Ask price
+averageBondDurationInDays;Median Bond Duration [d]
+averageBookValue;Median Corporate Book Value
+averageDailyWage;Median Daily Wage
+averageDesignatedSponsorRating;Average Designated Sponsor Rating
+averageYieldToMaturity;Median Yield to Maturity of Corporate Bonds
+bankaccount;Bank Account
+banking;Banking
+bankinglicense;Banking License
+bankinglicensedate;Banking License Date
+bid;Bid
+bidprice;Bid price
+bond;Bond
+bondFaceVolume;Total Bond Face Volume
+bondSecIdent;Bond ASIN
+bondinterestvolume;Bond Interest Volume
+bonds;Bonds
+bondsinportfolio;Bonds in Portfolio
+bondsvolume;Bonds Volume
+bookvalue;Book Value
+buy;BUY
+cash;Cash
+cast;Cast
+castvote;Cast a Vote
+castvotespercentages;Cast Votes Percentage
+centralBankReserves;Central Bank Reserves
+centralbankreservesincreased;Central Bank Reserves increased
+ceoemploymentdate;CEO Employment Date
+chat;Chat
+chatname;Chatname
+chatparticipants;Chat participants
+close;close
+committedCash;Committed Cash
+committedshares;Committed Shares
+company;Company
+companydetails;Company Details
+complaintadded;Compliant added
+confirmcopyright;I own the Image Copyright
+content;Content
+corporateCash;Total Corporate Cash
+counterparty;Counterparty
+create;Create
+createorder;Place Order
+currentask;Current Ask
+currentbid;Current Bid
+dailywage;Daily Wage
+date;Date
+day;Day
+days;Days
+deletechat;Delete Chat
+deleteorders;Cancel Orders
+deposit;Deposit
+diff.ago.day;1 day ago|%count% days ago
+diff.ago.hour;1 hour ago|%count% hours ago
+diff.ago.minute;1 minute ago|%count% minutes ago
+diff.ago.month;1 month ago|%count% months ago
+diff.ago.second;1 second ago|%count% seconds ago
+diff.ago.year;1 year ago|%count% years ago
+diff.empty;now
+diff.in.day;in 1 day|in %count% days
+diff.in.hour;in 1 hour|in %count% hours
+diff.in.minute;in 1 minute|in %count% minutes
+diff.in.month;in 1 month|in %count% months
+diff.in.second;in 1 second|in %count% seconds
+diff.in.year;in 1 year|in %count% years
+employment;Employment
+execution;Execution
+facevalue;Face Value
+finances;Finances
+fixedincomesecuritiesinportfolio;Fixed Income Securities in Portfolio
+foundcompany;Found company
+heldshares;Shares
+help;Help
+hourlymarketcharts;Hourly Market Charts
+ident;ASIN
+impressumlegalnotice;Impressum / Legal Notice
+increasecentralbankreserves;Increase Central Bank Reserves
+initiatecashout;Initiate Cash Out
+initiatedpolls;Initiated Polls
+initiateliquidation;Initiate Liquidation
+initiator;Initiator
+interestrate;Interest Rate
+issuebonds;Issue Bonds
+issued;Issued
+issuedate;Issue Date
+issuedbonds;Issued Bonds
+issuenewbonds;Issue New Bonds
+issuer;Issuer
+language;Language
+lastprice;Last Price
+lastvolume;Last Volume
+leavechat;Leave Chat
+limitbuyorder;Limit Buy Order
+limitorder;Limit Order
+limitprice;Limit
+limitsellorder;Limit Sell Order
+listingend;Listing End
+listingstart;Listing Start
+listingtype;Listing Type
+livemarketstatistics;Live Market Statistics
+login;Login
+loginsuccess;Login successful!
+logintocontinue;Login to continue
+logo.complaint;Logocomplaint
+logo.complaintNote;The complaint will be sent to the user
+logo.complainttext;Complainttext
+logo.delete;delete Logo
+logo.upload;Upload new logo
+logo.url;directUpload url to logo
+logout;Logout
+mainInterestRate;Main Interest Rate [%]
+market;Market
+marketCap;Total Corporate Market Cap
+marketcap;Market Cap
+marketorder;Market Order
+masterdata;Master Data
+maturitydate;Maturity Date
+maxcentralbankloans;Max. Central Bank Loans
+maximumcmountcentralbankloans;Maximum Amount of Central Bank Loans
+maxvolume;Max Volume
+message;Message
+missingCashAmount;Missing amount of cash
+missingCompanyId;Missing company ID
+modify;Modify
+motion;Motion
+myvotes;My Votes
+name;Name
+netcash;Net Cash
+newlogohelptext;Picturesize maximal 450x120, Filesize maximal 80KB, hostet at directupload.net
+nomessages;No chat messages available!
+nomessagesyet;No messages yet
+notenoughmoneyforfounding;You need at least 50k to found a new company
+numberOfActiveOtherListings;Total Number of Active Other Listings
+numberOfBanks;Number of banks
+numberOfBondOrders;Number of bond orders
+numberOfCashoutPolls;Total Number of Cashout Polls
+numberOfCommittedShares;Total Number of Comitted Shares
+numberOfCompanies;Total Number of Companies
+numberOfDesignatedSponsors;Total Number of Designated Sponsors
+numberOfLiquidationPolls;Total Number of Liquidation Polls
+numberOfOrders24h;Total Number of Trades in the last 24h
+numberOfOrders;Total Number of Unfilled Orders
+numberOfOtcOrders;Total Number of Unfilled OTC Orders
+numberOfOtherListings;Number of other listings
+numberOfOtherOrders;Number of other orders
+numberOfPartnerUsers;Total Number of Partner Users
+numberOfPremiumUsers;Number of premium users
+numberOfRepoOrders;Number of repo orders
+numberOfStockOrders;Number of stock orders
+numberOfSystemBondOrders;Number of system bond orders
+numberOfSystemRepoOrders;Number of system repo orders
+numberOfUsers;Total Number of Users
+numberofnewbonds;Number of new Bonds
+numberofshares;Number of Shares
+openorders;Open Orders
+orderVolume24h;Last 24h Trades Volume
+orderVolume;Order Volume
+orderbook;Orderbook
+ordervolume;Unfilled Orders Volume
+otccounterorders;OTC Counter Orders
+outstandingshares;Outstanding Shares
+partners;Partners
+password;Password
+payment;Payment
+placeorder;Place Order
+pleasechoose;please choose
+pollenddate;Poll End Date
+polls;Polls
+portfolio;Portfolio
+positions;Positions
+possible;Possible
+price;Price
+priceinformation;Price Information
+prices;Prices
+privateAccountStatement;
+privateCash;Total Private Cash
+privatecash;Private Cash
+readonly;Read Only?
+registersuccess;Registration successful
+registration;Registration
+repoSecIdent;Repo ASIN
+repointerestvolume;Repo Interest Volume
+repos;Repos
+reposvolume;Repos Volume
+requestbankinglicense;Request banking license
+resultexpirydate;Result Expiry Date
+save;Save
+searchfor;Search for...
+securities;Securities
+securitieslist;Securities List
+securitiesonly;Securities only
+securityidentifier;ASIN
+sell;SELL
+sellatfacevalue;Sell at Face Value
+sellatinitialprice;Sell 25% at initial price
+send;Submit
+settings;Settings
+shareholders;Shareholders
+shareinpercent;Share in Percent
+shares;Shares
+size;Size
+spread;Spread
+startnewchat;Start new chat
+stocksbonds;Stocks / Bonds
+stocksvolume;Stocks Volume
+subject;Subject
+systemBond;System Bond
+systemBondFaceVolume;Total System Bond Face Volume
+systemrepointerestvolume;System Repo Interest Volume
+systemreposvolume;System Repos Volume
+takencentralbankloans;Taken Central Bank Loans
+thatsyou;That's you
+totalcastvoices;Total # Cast Voices
+totalvoices;Total # Voices
+trades;Trades
+type;Type
+typemessage;Type your message. Press Shift + Enter for newline
+uino;NO
+uiyes;YES
+uncommittedCash;Uncommitted Cash
+username;Username
+users;Users
+viewallchats;View all chats
+volume;Volume

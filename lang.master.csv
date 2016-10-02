@@ -1,0 +1,407 @@
+# (#) can be liquidated in # days
+# (#) can be liquidated in # days. Please cast your vote.
+# (#) can employ # for a daily wage of #. Please cast your vote.
+# (#) can employ # with a daily wage of #. Please cast your vote.
+# (#) can employ you for a daily wage of #.
+# (#) will sell all positions in # days
+# (#) will sell all positions in # days. Please cast your vote.
+# initiated a Cash Out Poll for # (#)
+#: Your order was filled: # # # shares of # (#) at #.
+Already a bank
+At least # cash needed, only # is available
+Banking license does not exist
+Bond does not exist
+Bond repayment
+Bonds issued, don't forget to create a sell order!
+Bonds issued, don't forget to create a sell order! Order accepted.
+Buy # shares of # (#)
+CEO employed
+Cannot cash out: #
+Cannot employ CEO: #
+Cannot liquidate: #
+Cash amount needs to be greater than #
+Cash deposit of at least # is needed
+Chat deleted
+Chat does not exist
+Chat is read-only
+Company cannot be liquidated, as long as it does not consist of cash and/or own shares only
+Company does not exist
+Company does not have enough (uncommitted) cash to pay its CEO, only # available
+Company has been trading within the last # days
+Company has no logo
+Company has to be at least # days old
+Company id is unknown
+Company liquidated
+Company name is invalid, try # instead
+Company with name already exists
+Complaint does not exist
+Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the security identifier #.
+Content cannot be empty
+Current cash out poll is not yet expired
+Current liquidation poll is not yet expired
+Delete Chat
+Email address already exists
+Employ CEO poll initiated
+Evaluation has now started. Thanks for your help!
+Exceeds company net cash (#)
+Exceeds the maximum of central bank loans, only # can still be granted
+Execute
+Face value has to be at least #
+First payment is not yet possible
+Founding a new company called #
+Hot Securities
+Interest rate cannot be greater than #%
+Interest rate needs to be greater than #%
+Invalid logo
+Limit order needs price
+Liquidation of # (#)
+Listing does not exist
+Listing is already expired
+Logo URL is blocked because of complaints
+Logo URL is not valid
+Logo height exceeds # pixels
+Logo size exceeds # bytes
+Logo width exceeds # pixels
+Market order must not have price
+Market reset succesful
+Market sells are placed
+Maturity date cannot be more than # days in the future
+Maturity date has to be at least #h in the future
+Message deleted
+Message does not exist
+Missing Company
+More central bank reserve needed for this volume, only # can still be granted
+Name is empty
+Newest Securities
+Next payment is not yet possible
+Nice try
+Not a valid email address
+Not allowed to see this message
+Not enough private cash, only # is available
+Not enough shares in sell orders in order book to fill buy market order, only # are in sells
+Not enough shares, only # are held
+Not enough uncommitted cash in bank account, only # is available
+Not the sender of this message
+Not yet possible
+Notifications
+Notifications marked as read
+Number of shares must be at least #
+Only #% voted in favor for cashing out the company, #% are needed
+Only #% voted in favor for employing you, #% are needed
+Only #% voted in favor for the liquidation, #% are needed
+Only a scale of # allowed for stock orders, try # instead
+Only a scale of # allowed, try # instead
+Only banks can issue system bonds
+Only banks can trade repurchase agreements
+Only banks have central bank reserves
+Order filled
+Order id does not exist
+Owner does not exist
+Password is empty
+Payment does not exist
+Poll
+Poll deleted
+Poll did not pass
+Poll does not exist
+Poll result is already expired
+Price is above maximum price (#)
+Price is below minimum price (#)
+Price is negative
+Repurchase of # (#): # bonds
+Salary from # (#)
+Salary paid
+Search users...
+Securities account does not exist
+Securities account id is unknown
+Security identifier is unknown
+Security identifier unknown
+Security order deleted
+Security orders deleted
+Sell # shares of # (#)
+Shareholder Information - # initiated an Employ CEO Poll for # (#)
+Shareholder Information - # initiated an Liquidation Poll for # (#)
+Shareholder Information - # is the new CEO of # (#)
+Someone opened a complaint
+Subject matter does not exist
+System Restart
+System bond does not exist
+System bond issued
+The company needs # net cash to become a bank. The company's net cash is only #
+The evaluation of your complaint led to an execution.
+The shareholders decided to employ # as CEO of # (#) with a daily Wage of #. The former CEO was #.
+The shareholders decided to employ # as CEO of # (#) with a daily wage of #. The former CEO was #.
+The shareholders decided to employ # as CEO of # (#) with a daily wage of #. Your employment ends now.
+The wage cannot exceed #% of the company's net cash, try #
+There is no company for that listing
+There was a complaint about the # of #.
+There was a complaint about the # of #. The complainer added a note for you: #
+There was a system restart. Watch out for new features.
+Too many committed shares, only # available
+Too much committed cash, only # available
+User does not control a securities account that owns the order
+User does not control or partially own company
+User does not control the company
+User does not exist
+User id does not exist
+User is not a participant of this chat
+Username already exists
+Username does not exist
+Username is invalid, try # instead
+Volume (incl. interest)
+Voting period is already over
+Wage cannot be negative
+Wrong password
+You already have a open complaint for this subject matter
+You are dismissed as CEO of # (#)
+You are not participating in this chat
+You are the new CEO of # (#)
+You currently already have # open complaints
+You did not initiate this poll
+You do not control the company
+You do not own the chat
+You have founded a new Company called # (#)
+You initiated a Cash Out Poll for # (#)
+You initiated a Liquidation Poll for # (#)
+You initiated an Employ CEO Poll for # (#)
+You need to issue at least # bond
+You only have # voices left
+You opened a complaint
+You openened # complaints in the past # days
+You received # cash during the repayment of # (#)
+Your complaint entered the review process
+Your complaint was executed
+Your complaint will be reviewed as soon as possible.
+aboutus
+abstentionRule
+accountstatement
+action
+addtochat
+amount
+amountcashdeposit
+applyasceo
+approvalvotespercentage
+ask
+askprice
+averageBondDurationInDays
+averageBookValue
+averageDailyWage
+averageDesignatedSponsorRating
+averageYieldToMaturity
+bankaccount
+banking
+bankinglicense
+bankinglicensedate
+bid
+bidprice
+bond
+bondFaceVolume
+bondSecIdent
+bondinterestvolume
+bonds
+bondsinportfolio
+bondsvolume
+bookvalue
+buy
+cash
+cast
+castvote
+castvotespercentages
+centralBankReserves
+centralbankreservesincreased
+ceoemploymentdate
+chat
+chatname
+chatparticipants
+close
+committedCash
+committedshares
+company
+companydetails
+complaintadded
+confirmcopyright
+content
+corporateCash
+counterparty
+create
+createorder
+currentask
+currentbid
+dailywage
+date
+day
+days
+deletechat
+deleteorders
+deposit
+diff.ago.day
+diff.ago.hour
+diff.ago.minute
+diff.ago.month
+diff.ago.second
+diff.ago.year
+diff.empty
+diff.in.day
+diff.in.hour
+diff.in.minute
+diff.in.month
+diff.in.second
+diff.in.year
+employment
+execution
+facevalue
+finances
+fixedincomesecuritiesinportfolio
+foundcompany
+heldshares
+help
+hourlymarketcharts
+ident
+impressumlegalnotice
+increasecentralbankreserves
+initiatecashout
+initiatedpolls
+initiateliquidation
+initiator
+interestrate
+issuebonds
+issued
+issuedate
+issuedbonds
+issuenewbonds
+issuer
+language
+lastprice
+lastvolume
+leavechat
+limitbuyorder
+limitorder
+limitprice
+limitsellorder
+listingend
+listingstart
+listingtype
+livemarketstatistics
+login
+loginsuccess
+logintocontinue
+logo.complaint
+logo.complaintNote
+logo.complainttext
+logo.delete
+logo.upload
+logo.url
+logout
+mainInterestRate
+market
+marketCap
+marketcap
+marketorder
+masterdata
+maturitydate
+maxcentralbankloans
+maximumcmountcentralbankloans
+maxvolume
+message
+missingCashAmount
+missingCompanyId
+modify
+motion
+myvotes
+name
+netcash
+newlogohelptext
+nomessages
+nomessagesyet
+notenoughmoneyforfounding
+numberOfActiveOtherListings
+numberOfBanks
+numberOfBondOrders
+numberOfCashoutPolls
+numberOfCommittedShares
+numberOfCompanies
+numberOfDesignatedSponsors
+numberOfLiquidationPolls
+numberOfOrders
+numberOfOrders24h
+numberOfOtcOrders
+numberOfOtherListings
+numberOfOtherOrders
+numberOfPartnerUsers
+numberOfPremiumUsers
+numberOfRepoOrders
+numberOfStockOrders
+numberOfSystemBondOrders
+numberOfSystemRepoOrders
+numberOfUsers
+numberofnewbonds
+numberofshares
+openorders
+orderVolume
+orderVolume24h
+orderbook
+ordervolume
+otccounterorders
+outstandingshares
+partners
+password
+payment
+placeorder
+pleasechoose
+pollenddate
+polls
+portfolio
+positions
+possible
+price
+priceinformation
+prices
+privateAccountStatement
+privateCash
+privatecash
+readonly
+registersuccess
+registration
+repoSecIdent
+repointerestvolume
+repos
+reposvolume
+requestbankinglicense
+resultexpirydate
+save
+searchfor
+securities
+securitieslist
+securitiesonly
+securityidentifier
+sell
+sellatfacevalue
+sellatinitialprice
+send
+settings
+shareholders
+shareinpercent
+shares
+size
+spread
+startnewchat
+stocksbonds
+stocksvolume
+subject
+systemBond
+systemBondFaceVolume
+systemrepointerestvolume
+systemreposvolume
+takencentralbankloans
+thatsyou
+totalcastvoices
+totalvoices
+trades
+type
+typemessage
+uino
+uiyes
+uncommittedCash
+username
+users
+viewallchats
+volume

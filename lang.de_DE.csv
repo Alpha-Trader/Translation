@@ -1,0 +1,408 @@
+
+# (#) can be liquidated in # days. Please cast your vote.;# (#) kann erst in # Tagen liquidiert werden. Bitte stimmen Sie ab.
+# (#) can be liquidated in # days;# (#) kann erst in # Tagen liquidiert werden
+# (#) can employ # for a daily wage of #. Please cast your vote.;# (#) hat die Möglichkeit # für ein Gehalt von # einzustellen. Bitte stimmen Sie ab.
+# (#) can employ # with a daily wage of #. Please cast your vote.;# (#) hat die Möglichkeit # für ein Gehalt von # einzustellen. Bitte stimmen Sie ab.
+# (#) can employ you for a daily wage of #.;# (#) kann Sie für ein Gehalt von # einstellen.
+# (#) will sell all positions in # days. Please cast your vote.;# (#) wird alle Positionen in # Tagen verkaufen. Bitte stimmen Sie ab.
+# (#) will sell all positions in # days;# (#) wird alle Depotpositionen liquidieren
+# initiated a Cash Out Poll for # (#);# hat den Depotabverkauf für # beantragt
+#: Your order was filled: # # # shares of # (#) at #.;#: Ihre Order wurde ausgeführt: # # # Anteile von # (#) für #.
+Already a bank;Sie sind bereits eine Bank
+At least # cash needed, only # is available;Es werden mindestens # an Bargeld benötigt, Sie verfügen nur über #
+Banking license does not exist;Banklizenz existiert nicht
+Bond does not exist;Anleihe existiert nicht
+Bond repayment;Anleihen-Rückzahlung
+Bonds issued, don't forget to create a sell order! Order accepted.;Anleihen begeben, vergessen Sie nicht eine Verkafusorder zu erstellen! Order akzeptiert.
+Bonds issued, don't forget to create a sell order!;Anleihen begeben, vergessen Sie nicht eine Verkafusorder zu erstellen!
+Buy # shares of # (#);Kauf # Aktien von # (#)
+CEO employed;CEO wurde eingestellt
+Cannot cash out: #;Kann das Depot nicht abverkaufen: #
+Cannot employ CEO: #;CEO # kann nicht angestellt werden
+Cannot liquidate: #;Kann nicht liquidiert werden: #
+Cash amount needs to be greater than #;Geldbetrag muss größer als # sein
+Cash deposit of at least # is needed;Es wird eine Bareinlage von mindestens # benötigt
+Chat deleted;Chat wurde gelöscht
+Chat does not exist;Chat existiert nicht
+Chat is read-only;Die Unterhaltung ist schreibgeschützt
+Company cannot be liquidated, as long as it does not consist of cash and/or own shares only;Das Unternehmen kann nicht liquidiert werden, solange es nicht nur aus Bargeld und eignen Aktien besteht
+Company does not exist;Unternehmen existiert nicht
+Company does not have enough (uncommitted) cash to pay its CEO, only # available;Die Gesellschaft hat nicht genügend (ungebundene) Barmittel um den CEO zu bezahlen, es sind nur # verfügbar
+Company has been trading within the last # days;Die Gesellschaft hat in den letzten # Tagen Aktivität gezeigt
+Company has no logo;Das Unternehmen hat kein Logo
+Company has to be at least # days old;Das Unternemen muss mindesten # Tage alt sein
+Company id is unknown;Unternehmens-ID ist nicht bekannt
+Company liquidated;Unternehmen wurde aufgelöst
+Company name is invalid, try # instead;Der Name des Unternehmens ist nicht zulässig, versuchen Sie #
+Company with name already exists;Ein Unternehmen mit diesem Name ist bereits registriert
+Complaint does not exist;Diese Beschwerde existiert nicht
+Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the security identifier #.;Herzlichen Glückwunsch! Sie haben die Einlageanforderung erfüllt. Ihr Unternehmen ist nun an der Börse mit der ASIN # gelistet.
+Content cannot be empty;Inhalt kann nicht leer sein
+Current cash out poll is not yet expired;Die aktuelle Abstimmung über den Depotabverkauf ist noch nicht abgeschlossen
+Current liquidation poll is not yet expired;Die aktuelle Abstimmung über die Liquidation ist noch nicht abgelaufen
+Delete Chat;Chat löschen
+Email address already exists;Die E-Mail wird bereits verwendet
+Employ CEO poll initiated;CEO-Anstellungsabstimmung initiiert
+Evaluation has now started. Thanks for your help!;Der Prüfprozess wurde eingeleitet. Vielen Dank für Ihre Hilfe!
+Exceeds company net cash (#);Übersteigt den Nettobargeldbestand (Net Cash) der Gesellschaft
+Exceeds the maximum of central bank loans, only # can still be granted;Maximales Zentralbank-Kreditvolumen überschritten, es können nur noch # gewährt werden
+Execute;Ausführen
+Face value has to be at least #;Der Nennwert muss mindestes # betragen
+First payment is not yet possible;Die erste Zahlung ist noch nicht möglich
+Founding a new company called #;Gesellschaft namens # gegründet
+Hot Securities;Trendige Wertpapiere
+Interest rate cannot be greater than #%;Der Zinssatz darf nicht größer als #% sein
+Interest rate needs to be greater than #%;Der Zinssatz muss größer als #% sein
+Invalid logo;Das Logo ist ungültig
+Limit order needs price;Limit-Orders benötigen einen Preis
+Liquidation of # (#);Liquidation von # (#)
+Listing does not exist;Das Listing existiert nicht
+Listing is already expired;Das Listing ist abgelaufen
+Logo URL is blocked because of complaints;Diese Logo-URL wird aufgrund von Beschwerden blockiert
+Logo URL is not valid;Die Logo URL ist nicht zulässig
+Logo height exceeds # pixels;Das Logo ist # Pixel höher als erlaubt
+Logo size exceeds # bytes;Das Logo ist # Bytes größer als erlaubt
+Logo width exceeds # pixels;Das Logo ist # Pixel breiter als erlaubt
+Market order must not have price;Market-Orders dürfen keinen Preis haben
+Market reset succesful;Zurücksetzung des Marktes erfolgreich
+Market sells are placed;Market-Sells wurden platziert
+Maturity date cannot be more than # days in the future;Die Anleihe darf eine Laufzeit von # Tagen nicht überschreiten
+Maturity date has to be at least #h in the future;Die Anleihe darf eine Laufzeit von # Stunden nicht unterschreiten
+Message deleted;Nachricht gelöscht
+Message does not exist;Nachricht existiert nicht
+Missing Company;Unternehmen nicht gefunden
+More central bank reserve needed for this volume, only # can still be granted;Für dieses Volumen werden mehr Zentralbankreserven benötigt, maximal können noch # aufgenommen werden
+Name is empty;Name ist leer
+Newest Securities;Neue Wertpapiere
+Next payment is not yet possible;Die nächste Zahlung ist noch nicht möglich
+Nice try;Netter Versuch
+Not a valid email address;Die E-Mail-Adresse ist nicht korrekt
+Not allowed to see this message;Sie besitzen nicht die nötigen Rechte, um diese Nachricht zu lesen
+Not enough private cash, only # is available;Sie verfügen nicht über ausreichendes privates Vermögen, es ist nur # verfügbar
+Not enough shares in sell orders in order book to fill buy market order, only # are in sells;Es gibt nicht genügend Anteile in Verkaufsorders im Orderbuch, um diese Market-Kauforder zu bedienen, es sind nur # in Verkäufen
+Not enough shares, only # are held;Sie besitzen nicht genügend Anteile, Sie halten nur # Anteile
+Not enough uncommitted cash in bank account, only # is available;Nicht genügend unbebundene Barmittel im Bankkonto, es sind nur # verfügbar
+Not the sender of this message;Sie sind nicht der Absender der Nachricht
+Not yet possible;Noch nicht möglich
+Notifications marked as read;Die Benachrichtigung wurde als gelesen makiert
+Notifications;Benachrichtigungen
+Number of shares must be at least #;Die Anzahl der Anteile muss mindestens # betragen
+Only #% voted in favor for cashing out the company, #% are needed;Es haben nur #% für Depotabverkauf des Unternehmens gestimmt, es werden mindestens #% der Stimmen benötigt
+Only #% voted in favor for employing you, #% are needed;Nur #% haben für ihre Einstellung gestimmt, es werden mindestens #% der Stimmen benötigt
+Only #% voted in favor for the liquidation, #% are needed;Nur #% haben für die Liquidation abgestimmt, es werden mindestens #% der Stimmen benötigt
+Only a scale of # allowed for stock orders, try # instead;Es sind nur # Nachkommstellen zulässig für Aktienorders, versuchen Sie es mit # stattdessen
+Only a scale of # allowed, try # instead;Es sind nur # Nachkommstellen zulässig, versuchen Sie es mit # stattdessen
+Only banks can issue system bonds;Nur Banken können System-Anleihen emittieren
+Only banks can trade repurchase agreements;Nur Banken können Repos handeln
+Only banks have central bank reserves;Nur Banken haben Zentralbankreserven
+Order filled;Order bedient
+Order id does not exist;Order id existiert nicht
+Owner does not exist;Order-Besitzer existiert nicht
+Password is empty;Das Passwort ist leer
+Payment does not exist;Diese Zahlung existiert nicht
+Poll deleted;Abstimmung gelöscht
+Poll did not pass;Abstimmung ausgelaufen
+Poll does not exist;Diese Abstimmung existiert nicht
+Poll result is already expired;Das Ergebnis der Abstimmung ist bereits abgelaufen
+Poll;Abstimmung
+Price is above maximum price (#);Das Preislimit liegt oberhalb des Maximalpreises (#)
+Price is below minimum price (#);Das Preislimit liegt unterhalb des Minimalpreises (#)
+Price is negative;Das Preislimit ist negativ
+Repurchase of # (#): # bonds;Rückkauf von # (#)
+Salary from # (#);Gehalt von # (#)
+Salary paid;Gehalt ausgezahlt
+Search users...;Suche Nutzer...
+Securities account does not exist;Dieses Depot existiert nicht
+Securities account id is unknown;Dieses Depot ist nicht bekannt
+Security identifier is unknown;Diese ASIN ist nicht bekannt
+Security identifier unknown;Unbekannte ASIN
+Security order deleted;Order wurde gestrichen
+Security orders deleted;Orders wurden gestrichen
+Sell # shares of # (#);Verkauf  # Aktien von # (#)
+Shareholder Information - # initiated an Employ CEO Poll for # (#);Aktionärsinformation - # hat eine Abstimmung über die Neubesetzung der Position des CEO der Gesellschaft # gestartet
+Shareholder Information - # initiated an Liquidation Poll for # (#);Aktionärsinformationen - # möchte über die Liquidation von # (#) abstimmen lassen
+Shareholder Information - # is the new CEO of # (#);Aktionärsinformation - # ist der neue CEO von # (#)
+Someone opened a complaint;Jemand hat eine Beschwerde eingereicht
+Subject matter does not exist;Diese Angelegenheit existiert nicht
+System Restart;System-Neustart
+System bond does not exist;Diese System-Anleihe existiert nicht
+System bond issued;System Anleihe wurde begeben
+The company needs # net cash to become a bank. The company's net cash is only #;Das Unternehmen benötigt einen Nettobargeldbestand (Net Cash) von mindestens #. Das Unternehmen weist nur einen Nettobargeldbestand von # auf
+The evaluation of your complaint led to an execution.;Die Überprüfung Ihrer Beschwerde führte zum Vollzug.
+The shareholders decided to employ # as CEO of # (#) with a daily Wage of #. The former CEO was #.;Die Aktionäre haben entschieden # als CEO für das Unternehmen # (#) mit einem Gehalt von # einzustellen. Der ehemalige CEO war #.
+The shareholders decided to employ # as CEO of # (#) with a daily wage of #. The former CEO was #.;Die Aktionäre haben entschieden # als CEO für das Unternehmen # (#) mit einem Gehalt von # einzustellen. Der ehemalige CEO war #.
+The shareholders decided to employ # as CEO of # (#) with a daily wage of #. Your employment ends now.;Die Aktionäre haben entschieden # als CEO für das Unternehmen # (#) mit einem Gehalt von # einzustellen. Ihre Anstellung endet hiermit.
+The wage cannot exceed #% of the company's net cash, try #;Das Gehalt kann nicht mehr als #% des Nettobargeldbestands (Net Cash) betragen, bitte versuchen Sie es mit # stattdessen
+There is no company for that listing;Es gibt kein Unternehmen mit dieser ASIN
+There was a complaint about the # of #. The complainer added a note for you: #;Es gab eine Beschwerde über Ihr # von #. Die Beschwerde beinhaltet folgenden Hinweis für Sie: #
+There was a complaint about the # of #.;Es gab eine Beschwerde über # von #.
+There was a system restart. Watch out for new features.;Es gab einen System-Neustart. Halten Sie Ausschau nach neuen Features.
+Too many committed shares, only # available;Zuviele gebundene Anteile, es sind nur # verfügbar
+Too much committed cash, only # available;Zuviel gebundene Barmittel, es sind nur # verfügbar
+User does not control a securities account that owns the order;Der Nutzer ist nicht verfügungsberechtigt über das Wertpapierkonto zu dem diese Order gehört
+User does not control or partially own company;Der Nutzer ist weder Anteilseigner noch hat er Kontrolle über die Gesellschaft
+User does not control the company;Der Nutzer kontrolliert dieses Unternehmen nicht
+User does not exist;Der Nutzer existiert nicht
+User id does not exist;Diese Nutzer ID existiert nicht
+User is not a participant of this chat;Der Nutzer ist kein Teilnehmer dieses Chats
+Username already exists;Dieser Nutzername wird bereits verwendet
+Username does not exist;Dieser Nutzername existiert nicht
+Username is invalid, try # instead;Der Username ist ungültig versuche # anstatt
+Volume (incl. interest);Volumen (inkl. Zinsen)
+Voting period is already over;Die Abstimmungsphase ist bereits abgeschlossen
+Wage cannot be negative;Das Gehalt kann nicht negativ sein
+Wrong password;Das Passwort falsch
+You already have a open complaint for this subject matter;Sie haben bereits eine Beschwerde in dieser Sache eingereicht
+You are dismissed as CEO of # (#);Sie wurden als CEO von # entlassen
+You are not participating in this chat;Sie sind kein Teilnehmer des Chats
+You are the new CEO of # (#);Sie sind der neue CEO von # (#)
+You currently already have # open complaints;;Sie haben aktuell bereits # laufende Beschwerden
+You did not initiate this poll;Sie haben diese Abstimmung nicht eingeleitet
+You do not control the company;Sie sind nicht verfügungsberechtigt über dieses Unternehmen
+You do not own the chat;Sie sind nicht der Eigentümer des Chats
+You have founded a new Company called # (#);Sie haben eine neue Gesellschaft namens # (#) gegründet
+You initiated a Cash Out Poll for # (#);Sie haben die Auszahlung der liquiden Mittel von # (#) beantragt
+You initiated a Liquidation Poll for # (#);Sie haben die Liquidation von # beantragt
+You initiated an Employ CEO Poll for # (#);Sie haben einen Abstimmung über die Anstellung als CEO bei # beantragt
+You need to issue at least # bond;Sie müssen mindestens # Stück der Anleihe emittieren
+You only have # voices left;Sie nur noch # Stimmen übrig
+You opened a complaint;Sie haben eine Beschwerde eingereicht
+You openened # complaints in the past # days;Sie haben # Beschwerden in den letzten # Tagen eingereicht
+You received # cash during the repayment of # (#);Sie erhielten # während der Rückzahlung von # (#)
+Your complaint entered the review process;Ihre Beschwerde befindet sich nun im Prüfverfahren
+Your complaint was executed;Ihre Beschwerde wurde bearbeitet
+Your complaint will be reviewed as soon as possible.;Ihre Beschwerde wird schnellstmöglich bearbeitet.
+aboutus;Über uns
+abstentionRule;Wertung bei Enthaltung
+accountstatement;Kontoauszug
+action;Aktion
+addtochat;Zu Chat hinzufügen
+amount;Betrag
+amountcashdeposit;Einzahlung
+applyasceo;Als CEO bewerben
+approvalvotespercentage;Zustimmung [%]
+ask;Brief
+askprice;Briefkurs
+averageBondDurationInDays;Durschnittliche Laufzeit aller Anleihen
+averageBookValue;Durchschnittlicher Buchwert
+averageDailyWage;Durchschnittliches tägliches Gehalt
+averageDesignatedSponsorRating;Median der Designated Sponsor Ratings
+averageYieldToMaturity;Durchschnittliche Yield-to-Maturity
+bankaccount;Konto
+banking;Bankwesen
+bankinglicense;Banklizenz
+bankinglicensedate;Banklizenz seit
+bid;Geld
+bidprice;Geldkurs
+bond;Anleihe
+bondFaceVolume;Emissionsvolumen
+bondSecIdent;Anleihen ASIN
+bondinterestvolume;Zinszahlungen durch Anleihen
+bonds;Anleihen
+bondsinportfolio;Anleihen im Portfolio
+bondsvolume;Anleihevolumen
+bookvalue;Buchwert
+buy;Kaufen
+cash;Bargeld
+cast;Stimmen abgeben
+castvote;Stimmen abgeben
+castvotespercentages;Abgegebene Stimmen [%]
+centralBankReserves;Zentralbankreserven
+centralbankreservesincreased;Zentralbankreserven erhöht
+ceoemploymentdate;Einstellungsdatum
+chat;Chat
+chatname;Chatname
+chatparticipants;Chat-Teilnehmer
+close;Schliessen
+committedCash;Bargeld in Orders
+committedshares;Anteile in Orders
+company;Unternehmen
+companydetails;Unternehmensprofil
+complaintadded;Beschwerde eingereicht
+confirmcopyright;Ich versichere das Urheberrecht innezuhaben
+content;Inhalt
+corporateCash;Bankguthaben
+counterparty;Gegenpartei
+create;Aktion
+createorder;Order aufgeben
+currentask;Aktueller Briefkurs
+currentbid;Aktueller Geldkurs
+dailywage;Tägliches Gehalt
+date;Datum
+day;Tag
+days;Tage
+deletechat;Chat löschen
+deleteorders;Orders streichen
+deposit;Guthaben
+diff.ago.day;vor einem Tag|vor %count% Tagen
+diff.ago.hour;vor einer Stunde|vor %count% Stunden
+diff.ago.minute;vor einer Minute|vor %count% Minuten
+diff.ago.month;vor einem Monat|vor %count% Monaten
+diff.ago.second;vor einer Sekunde|vor %count% Sekunden
+diff.ago.year;vor einem Jahr|vor %count% Jahren
+diff.empty;jetzt
+diff.in.day;in einem Tag|in %count% Tagen
+diff.in.hour;in einer Stunde|in %count% Stunden
+diff.in.minute;in einer Minute|in %count% Minuten
+diff.in.month;in einem Monat|in %count% Monaten
+diff.in.second;in einer Sekunde|in %count% Sekunden
+diff.in.year;in einem Jahr|in %count% Jahren
+employment;Einstellungsdatum
+execution;Ausführung
+facevalue;Nominalwert
+finances;Finanzen
+fixedincomesecuritiesinportfolio;Festverzinsliche Wertpapiere im Portfolio
+foundcompany;Neues Unternehmen gründen
+heldshares;Gehaltene Anteile
+help;Hilfe
+hourlymarketcharts;stdl. Marktstatistiken
+ident;ASIN
+impressumlegalnotice;Impressum / Legal Notice
+increasecentralbankreserves;Zentralbankreserven erhöhen
+initiatecashout;Initiiere Depotabverkauf
+initiatedpolls;Initiierte Abstimmungen
+initiateliquidation;Initiiere Liquidation
+initiator;In­i­ti­a­tor
+interestrate;Zinssatz
+issuebonds;Anleihe begeben
+issued;Ausgegeben am
+issuedate;Emissionsdatum
+issuedbonds;Emittierte Anleihen
+issuenewbonds;Neue Anleihen begeben
+issuer;Emittent
+language;Sprache
+lastprice;Letzter Preis
+lastvolume;Letztes Volumen
+leavechat;Chat verlassen
+limitbuyorder;Limit Kauf-Order
+limitorder;Limit Order
+limitprice;Limit
+limitsellorder;Limit Verkaufs-Order
+listingend;Ende der Börsennotierung
+listingstart;Beginn der Börsennotierung
+listingtype;Typ der Börsennotierung
+livemarketstatistics;Live Statistiken
+login;Anmelden
+loginsuccess;Login erfolgreich!
+logintocontinue;Anmelden um fortzufahren
+logo.complaint;Logo Beschwerde
+logo.complaintNote;Dieser Hinweis wird an den Spieler weitergeleitet
+logo.complainttext;Text für Beschwerde
+logo.delete;Logo löschen
+logo.upload;Neues Logo hochladen
+logo.url;directUpload.net URL zum Logo
+logout;Abmelden
+mainInterestRate;Leitzins
+market;Markt
+marketCap;Marktkapitalisierung
+marketcap;Marktkapitalisierung
+marketorder;Market-Order
+masterdata;Stammdaten
+maturitydate;Fälligkeitsdatum
+maxcentralbankloans;Max. Zentralbankkreditsumme
+maximumcmountcentralbankloans;Max. Zentralbankkreditsumme
+maxvolume;Max. Volumen
+message;Nachricht
+missingCashAmount;Geldbetrag fehlt
+missingCompanyId;Company ID fehlt
+modify;Bearbeiten
+motion;Betreff
+myvotes;Meine Stimmen
+name;Name
+netcash;Net Cash
+newlogohelptext;Bildabmessungen maximal 450x120, Bildgrösse maximal 80KB, gehostet bei http://directupload.net
+nomessages;Keine Nachrichten verfügbar!
+nomessagesyet;Keine Nachrichten bisher
+notenoughmoneyforfounding;Sie benötigen mindestens 50k Bargeld für die Gründung einer Aktiengesellschaft
+numberOfActiveOtherListings;Anzahl aktiver anderer Listings
+numberOfBanks;Anzahl Banken
+numberOfBondOrders;Anzahl der Anleihen Orders
+numberOfCashoutPolls;Anzahl Depotabverkaufs-Abstimmungen
+numberOfCommittedShares;Anzahl Anteile in Orders
+numberOfCompanies;Anzahl Unternehmen
+numberOfDesignatedSponsors;Anzahl Designated Sponsors
+numberOfLiquidationPolls;Anzahl Liquidations-Abstimmungen
+numberOfOrders24h;Anzahl Orders der letzten 24h
+numberOfOrders;Anzahl Orders
+numberOfOtcOrders;Anzahl OTC-Orders
+numberOfOtherListings;Anzahl anderer Listings
+numberOfOtherOrders;Anzahl anderer Orders
+numberOfPartnerUsers;Anzahl Partner
+numberOfPremiumUsers;Anzahl Premiumnutzer
+numberOfRepoOrders;Anzahl der Repo Orders
+numberOfStockOrders;Anzahl der Aktien Orders
+numberOfSystemBondOrders;Anzahl der System-Bond Orders
+numberOfSystemRepoOrders;Anzahl der System-Repo Orders
+numberOfUsers;Anzahl Nutzer
+numberofnewbonds;Anzahl neuer Anleihen
+numberofshares;Anzahl Anteile
+openorders;Offene Orders
+orderVolume24h;Ordervolumen der letzten 24h
+orderVolume;Ordervolumen
+orderbook;Orderbuch
+ordervolume;Ordervolumen
+otccounterorders;OTC Gegenorders
+outstandingshares;Anzahl ausgegebener Aktien
+partners;Partner
+password;Passwort
+payment;Bezahlung
+placeorder;Order platzieren
+pleasechoose;Bitte auswählen...
+pollenddate;Ende der Abstimmung
+polls;Abstimmungen
+portfolio;Portfolio
+positions;Positionen
+possible;Möglich
+price;Preis
+priceinformation;Preisinformationen
+prices;Preise
+privateAccountStatement;Privater Kontoauszug
+privateCash;Privatvermögen
+privatecash;Privates Guthaben
+readonly;Nur Lesen
+registersuccess;Registrierung erfolgreich
+registration;Registrierung
+repoSecIdent;Repo ASIN
+repointerestvolume;Zinszahlungen durch Repos
+repos;Repos
+reposvolume;Volumen Repos
+requestbankinglicense;Banklizenz beantragen
+resultexpirydate;Verfall der Abstimmungsergebnisse
+save;Speichern
+searchfor;Suchen nach...
+securities;Wertpapiere
+securitieslist;Wertpapierliste
+securitiesonly;Nur Wertpapiere
+securityidentifier;ASIN
+sell;Verkaufen
+sellatfacevalue;Zum Nominalwert verkaufen
+sellatinitialprice;25% zum Ausgabekurse verkaufen
+send;Absenden
+settings;Einstellungen
+shareholders;Anteilseigner
+shareinpercent;Anteil (%)
+shares;Anteile
+size;Anzahl
+spread;Spread
+startnewchat;Neuen Chat öffnen
+stocksbonds;Aktien / Anleihen
+stocksvolume;Aktienvolumen
+subject;Betreff
+systemBond;System Anleihe
+systemBondFaceVolume;Nominalwert System-Anleihe
+systemrepointerestvolume;Zinszahlungen durch Repos (Zentralbank)
+systemreposvolume;Volumen Repos (Zentralbank)
+takencentralbankloans;Aufgenommene Zentralbankkredite
+thatsyou;Das sind Sie!
+totalcastvoices;Abgegebene Stimmen
+totalvoices;Stimmberechtigungen
+trades;Trades
+type;Typ
+typemessage;Geben Sie Ihre Nachricht mit Shift+Enter für neue Zeilen ein
+uino;Nein
+uiyes;Ja
+uncommittedCash;Verfügbares Bargeld
+username;Nutzername
+users;Nutzer
+viewallchats;Alle Chats anzeigen
+volume;Volumen
