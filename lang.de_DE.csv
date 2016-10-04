@@ -20,8 +20,10 @@ CEO employed;CEO wurde eingestellt
 Cannot cash out: #;Kann das Depot nicht abverkaufen: #
 Cannot employ CEO: #;CEO # kann nicht angestellt werden
 Cannot liquidate: #;Kann nicht liquidiert werden: #
+Cash Out poll initiated;
 Cash amount needs to be greater than #;Geldbetrag muss größer als # sein
 Cash deposit of at least # is needed;Es wird eine Bareinlage von mindestens # benötigt
+Chat created;Neuer Chat wurde erstellt
 Chat deleted;Chat wurde gelöscht
 Chat does not exist;Chat existiert nicht
 Chat is read-only;Die Unterhaltung ist schreibgeschützt
@@ -38,11 +40,14 @@ Company with name already exists;Ein Unternehmen mit diesem Name ist bereits reg
 Complaint does not exist;Diese Beschwerde existiert nicht
 Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the security identifier #.;Herzlichen Glückwunsch! Sie haben die Einlageanforderung erfüllt. Ihr Unternehmen ist nun an der Börse mit der ASIN # gelistet.
 Content cannot be empty;Inhalt kann nicht leer sein
+Copy Order;Order kopieren
 Current cash out poll is not yet expired;Die aktuelle Abstimmung über den Depotabverkauf ist noch nicht abgeschlossen
 Current liquidation poll is not yet expired;Die aktuelle Abstimmung über die Liquidation ist noch nicht abgelaufen
 Delete Chat;Chat löschen
+Delete Order;Order streichen
 Email address already exists;Die E-Mail wird bereits verwendet
 Employ CEO poll initiated;CEO-Anstellungsabstimmung initiiert
+Employ new CEO or change the employment agreement of current CEO;Neuen CEO einstellen oder Änderungen am Vertrag des aktuellen CEO
 Evaluation has now started. Thanks for your help!;Der Prüfprozess wurde eingeleitet. Vielen Dank für Ihre Hilfe!
 Exceeds company net cash (#);Übersteigt den Nettobargeldbestand (Net Cash) der Gesellschaft
 Exceeds the maximum of central bank loans, only # can still be granted;Maximales Zentralbank-Kreditvolumen überschritten, es können nur noch # gewährt werden
@@ -56,6 +61,7 @@ Interest rate needs to be greater than #%;Der Zinssatz muss größer als #% sein
 Invalid logo;Das Logo ist ungültig
 Limit order needs price;Limit-Orders benötigen einen Preis
 Liquidation of # (#);Liquidation von # (#)
+Liquidation poll initiated;
 Listing does not exist;Das Listing existiert nicht
 Listing is already expired;Das Listing ist abgelaufen
 Logo URL is blocked because of complaints;Diese Logo-URL wird aufgrund von Beschwerden blockiert
@@ -71,6 +77,8 @@ Maturity date has to be at least #h in the future;Die Anleihe darf eine Laufzeit
 Message deleted;Nachricht gelöscht
 Message does not exist;Nachricht existiert nicht
 Missing Company;Unternehmen nicht gefunden
+Missing company or daily wage;Unternehmen fehlt oder Gehalt fehlt
+Missing poll id, number of voices or voting type;
 More central bank reserve needed for this volume, only # can still be granted;Für dieses Volumen werden mehr Zentralbankreserven benötigt, maximal können noch # aufgenommen werden
 Name is empty;Name ist leer
 Newest Securities;Neue Wertpapiere
@@ -103,6 +111,7 @@ Payment does not exist;Diese Zahlung existiert nicht
 Poll deleted;Abstimmung gelöscht
 Poll did not pass;Abstimmung ausgelaufen
 Poll does not exist;Diese Abstimmung existiert nicht
+Poll executed
 Poll result is already expired;Das Ergebnis der Abstimmung ist bereits abgelaufen
 Poll;Abstimmung
 Price is above maximum price (#);Das Preislimit liegt oberhalb des Maximalpreises (#)
@@ -149,6 +158,7 @@ Username already exists;Dieser Nutzername wird bereits verwendet
 Username does not exist;Dieser Nutzername existiert nicht
 Username is invalid, try # instead;Der Username ist ungültig versuche # anstatt
 Volume (incl. interest);Volumen (inkl. Zinsen)
+Vote cast
 Voting period is already over;Die Abstimmungsphase ist bereits abgeschlossen
 Wage cannot be negative;Das Gehalt kann nicht negativ sein
 Wrong password;Das Passwort falsch
@@ -164,6 +174,7 @@ You have founded a new Company called # (#);Sie haben eine neue Gesellschaft nam
 You initiated a Cash Out Poll for # (#);Sie haben die Auszahlung der liquiden Mittel von # (#) beantragt
 You initiated a Liquidation Poll for # (#);Sie haben die Liquidation von # beantragt
 You initiated an Employ CEO Poll for # (#);Sie haben einen Abstimmung über die Anstellung als CEO bei # beantragt
+You left a chat!;Sie haben den Chat verlassen
 You need to issue at least # bond;Sie müssen mindestens # Stück der Anleihe emittieren
 You only have # voices left;Sie nur noch # Stimmen übrig
 You opened a complaint;Sie haben eine Beschwerde eingereicht
@@ -227,12 +238,13 @@ create;Aktion
 createorder;Order aufgeben
 currentask;Aktueller Briefkurs
 currentbid;Aktueller Geldkurs
+daily wage;Gehalt
 dailywage;Tägliches Gehalt
 date;Datum
 day;Tag
 days;Tage
 deletechat;Chat löschen
-deleteorders;Orders streichen
+deleteorders;Alle Orders streichen
 deposit;Guthaben
 diff.ago.day;vor einem Tag|vor %count% Tagen
 diff.ago.hour;vor einer Stunde|vor %count% Stunden
@@ -343,6 +355,7 @@ orderbook;Orderbuch
 ordervolume;Ordervolumen
 otccounterorders;OTC Gegenorders
 outstandingshares;Anzahl ausgegebener Aktien
+owner;Besitzer
 partners;Partner
 password;Passwort
 payment;Bezahlung
