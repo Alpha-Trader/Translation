@@ -20,8 +20,10 @@ CEO employed;CEO employed
 Cannot cash out: #;Cannot cash out: #
 Cannot employ CEO: #;Cannot employ CEO: #
 Cannot liquidate: #;Cannot liquidate: #
+Cash Out poll initiated;Cash Out poll initiated
 Cash amount needs to be greater than #;Cash amount needs to be greater than #
 Cash deposit of at least # is needed;Cash deposit of at least # is needed
+Chat created;Chat created
 Chat deleted;Chat deleted
 Chat does not exist;Chat does not exist
 Chat is read-only;Chat is read-only
@@ -38,11 +40,14 @@ Company with name already exists;Company with name already exists
 Complaint does not exist;Complaint does not exist
 Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the security identifier #.;Congratulations! You fulfilled the cash deposit requirements. Your company is now listed at the stock exchange by the ASIN #.
 Content cannot be empty;Content cannot be empty
+Copy Order;Copy Order
 Current cash out poll is not yet expired;Current cash out poll is not yet expired
 Current liquidation poll is not yet expired;Current liquidation poll is not yet expired
 Delete Chat;Delete Chat
+Delete Order;Delete Order
 Email address already exists;Email address already exists
 Employ CEO poll initiated;Employ CEO poll initiated
+Employ new CEO or change the employment agreement of current CEO;Employ new CEO or change the employment agreement of current CEO
 Evaluation has now started. Thanks for your help!;Evaluation has now started. Thanks for your help!
 Exceeds company net cash (#);Exceeds company net cash (#)
 Exceeds the maximum of central bank loans, only # can still be granted;Exceeds the maximum of central bank loans, only # can still be granted
@@ -56,6 +61,7 @@ Interest rate needs to be greater than #%;Interest rate needs to be greater than
 Invalid logo;Invalid logo
 Limit order needs price;Limit order needs price
 Liquidation of # (#);Liquidation of # (#)
+Liquidation poll initiated;Liquidation poll initiated
 Listing does not exist;Listing does not exist
 Listing is already expired;Listing is already expired
 Logo URL is blocked because of complaints;Logo URL is blocked because of complaints
@@ -71,6 +77,8 @@ Maturity date has to be at least #h in the future;Maturity date has to be at lea
 Message deleted;Message deleted
 Message does not exist;Message does not exist
 Missing Company;Missing Company
+Missing company or daily wage;Missing company or daily wage
+Missing poll id, number of voices or voting type;Missing poll id, number of voices or voting type
 More central bank reserve needed for this volume, only # can still be granted;More central bank reserve needed for this volume, only # can still be granted
 Name is empty;Name is empty
 Newest Securities;Newest Securities
@@ -103,6 +111,7 @@ Payment does not exist;Payment does not exist
 Poll deleted;Poll deleted
 Poll did not pass;Poll did not pass
 Poll does not exist;Poll does not exist
+Poll executed;Poll executed
 Poll result is already expired;Poll result is already expired
 Poll;poll
 Price is above maximum price (#);Price is above maximum price (#)
@@ -126,7 +135,7 @@ Someone opened a complaint;Someone opened a complaint
 Subject matter does not exist;Subject matter does not exist
 System Restart;System Restart
 System bond does not exist;System bond does not exist
-System bond issued; System bond issued
+System bond issued;System bond issued
 The company needs # net cash to become a bank. The company's net cash is only #;The company needs # net cash to become a bank. The company's net cash is only #
 The evaluation of your complaint led to an execution.;The evaluation of your complaint led to an execution.
 The shareholders decided to employ # as CEO of # (#) with a daily Wage of #. The former CEO was #.;The shareholders decided to employ # as CEO of # (#) with a daily wage of #. The former CEO was #.
@@ -149,6 +158,7 @@ Username already exists;Username already exists
 Username does not exist;Username does not exist
 Username is invalid, try # instead;Username is invalid, try # instead
 Volume (incl. interest);Volume (incl. interest)
+Vote cast;Vote cast
 Voting period is already over;Voting period is already over
 Wage cannot be negative;Wage cannot be negative
 Wrong password;Wrong password
@@ -164,6 +174,7 @@ You have founded a new Company called # (#);You have founded a new Company calle
 You initiated a Cash Out Poll for # (#);You initiated a Cash Out Poll for # (#)
 You initiated a Liquidation Poll for # (#);You initiated a Liquidation Poll for # (#)
 You initiated an Employ CEO Poll for # (#);You initiated an Employ CEO Poll for # (#)
+You left a chat!;You left a chat!
 You need to issue at least # bond;You need to issue at least # bond
 You only have # voices left;You only have # voices left
 You opened a complaint;You opened a complaint
@@ -227,6 +238,7 @@ create;Create
 createorder;Place Order
 currentask;Current Ask
 currentbid;Current Bid
+daily wage;Daily Wage
 dailywage;Daily Wage
 date;Date
 day;Day
@@ -343,6 +355,7 @@ orderbook;Orderbook
 ordervolume;Unfilled Orders Volume
 otccounterorders;OTC Counter Orders
 outstandingshares;Outstanding Shares
+owner;owner
 partners;Partners
 password;Password
 payment;Payment
